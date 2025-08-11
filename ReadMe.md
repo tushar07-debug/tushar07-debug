@@ -4,17 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
 <div align="center">
   <a href="https://m.facebook.com/profile.php?id=100016934525808&name=xhp_nt__fb__action__open_user" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
