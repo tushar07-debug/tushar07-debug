@@ -4,6 +4,16 @@
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <a href="https://m.facebook.com/profile.php?id=100016934525808&name=xhp_nt__fb__action__open_user" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -104,13 +114,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar07-debug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar07-debug&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tushar07-debug/tushar07-debug/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
